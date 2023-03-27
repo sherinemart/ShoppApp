@@ -2,8 +2,8 @@ class Arith
 {
  public static void main(String args[])
 {
- int a=10;
- int b=0;
+ int a=100;
+ int b=20;
 try
 {
  int c=a/b;
